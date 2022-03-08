@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">batu-gunting-kertas-irwin</string>
+    <string name="komputer">KOMPUTER : </string>
+    <string name="anda">ANDA : </string>
+    <string name="result">hasil : </string>
+
+</resources>
